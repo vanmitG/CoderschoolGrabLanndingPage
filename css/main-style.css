@@ -1,0 +1,56 @@
+/* font */
+@import url("https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap");
+/* Declare font:
+font-family: "Open Sans", sans-serif; 
+font-family: "Montserrat", sans-serif; */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: "Open Sans", sans-serif;
+  font-size: 100%;
+}
+body {
+  font-size: 1rem;
+  line-height: 1.5;
+  width: 100%;
+}
+nav {
+  height: 5rem;
+  background-color: blue;
+  padding: 2rem;
+  /* background-color:rgba(255,255,255,1); */
+}
+header {
+  height: 32rem;
+  background-color: green;
+  padding: 5em;
+  /* background-color:rgba(255,255,255,1); */
+}
+.howGrabWork {
+  height: 35rem;
+  background-color: yellow;
+  padding: 7rem;
+}
+.whatYouShouldKnow {
+  height: 25em;
+  background-color: red;
+  padding: 4rem;
+}
+.downloadGrab {
+  height: 25em;
+  background-color: purple;
+  padding: 4rem;
+}
+.latestNews {
+  height: 25em;
+  background-color: yellowgreen;
+  padding: 4rem;
+}
+footer {
+  height: 45em;
+  background-color: brown;
+  padding: 10rem;
+}
