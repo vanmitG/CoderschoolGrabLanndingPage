@@ -1,5 +1,5 @@
 # This is a clone of Grab landing pags.
 
-## More content will be here.
+## This clone page is built using bootstrap 4
 
-### More content here.
+### This pages has not been finished
