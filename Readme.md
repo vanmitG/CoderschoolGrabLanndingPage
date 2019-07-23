@@ -2,4 +2,3 @@
 
 ## This clone page is built using bootstrap 4
 
-### This pages has not been finished
